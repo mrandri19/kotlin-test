@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sossoldi</string>
+    <string name="form_description">Descrizione</string>
+    <string name="form_amount">Spesa</string>
 </resources>
